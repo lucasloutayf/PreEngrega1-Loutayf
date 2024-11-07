@@ -216,10 +216,12 @@ button{
     font-size: 1.2rem;
     transition: 400ms;
     margin-bottom: 50px;
+    cursor: pointer;
+
 }
 
 button:hover{
-    transform: scale(0.9, 0.9);
+    transform: scale(1.07, 1.07);
 }
 
 h2{
